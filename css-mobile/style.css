@@ -69,7 +69,7 @@
     }
     
     .search-bar{
-        padding-left: 20px;
+        margin-left:20px;
     }
 
     .infobar{
@@ -99,8 +99,9 @@
         border-radius: 15px 15px 15px 15px;
         width: 49px;
     }
-
-    .block-search span{
+    
+    
+    .block-search input{
         display:none;
     }
     
