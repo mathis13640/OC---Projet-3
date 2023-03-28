@@ -96,8 +96,7 @@
 }
 
 .space-search{
-    display:flex;
-    
+    display:flex;  
     flex-direction: row-reverse;
     
 }
