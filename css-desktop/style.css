@@ -191,8 +191,8 @@ border:2px solid #D9D9D9;
 
 .items-filter{
     display: flex;
-    height: 20px;
     justify-content: center;
+    align-items: center;
     border:2px solid #D9D9D9;
     border-radius: 20px;
     padding-left: 15px;
@@ -205,12 +205,16 @@ border:2px solid #D9D9D9;
     display:none;
 }
 
+.the-items button i{
+    padding-right:7px;
+}
 
 .textbox-elements{
+    display: flex;
     font-weight: bold;
-    display:flex;
+    background-color:white;
+    font-size: 16px;
     justify-content: center;
-    margin-left: 10px;
 }
 
 
