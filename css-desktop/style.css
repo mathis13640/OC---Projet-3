@@ -209,6 +209,10 @@ border:2px solid #D9D9D9;
     padding-right:7px;
 }
 
+.color-pointer:hover{
+background-color: #DEEBFF;
+}
+
 .textbox-elements{
     display: flex;
     font-weight: bold;
