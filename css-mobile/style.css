@@ -8,6 +8,9 @@
 
 /*---Nav-bar---*/
 
+    .line:hover{
+        border-top:none;
+    }
 
     .site-navbar a{
         margin-left:0;
@@ -24,7 +27,10 @@
     
     .element-hebergement:hover{
         border-bottom: 2px solid blue ;
-        border-top: 0px;
+    }
+
+    .element-activity:hover{
+        border-bottom: 2px solid blue ;
     }
 
     .element-hebergement{
