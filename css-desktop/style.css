@@ -20,6 +20,7 @@
 
 }
 
+
 .nav-elements .colortext:hover{
     color:#0065FC;
 }
@@ -44,6 +45,7 @@
 
 .nav-elements{
     display: flex;
+    color:black;
     
 }
 
