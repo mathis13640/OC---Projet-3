@@ -2,11 +2,6 @@
 /* Medium devices (tablets, less/equal than 1024px) */
 @media (max-width: 1024px) {
     
-    .the-items {
-        flex-wrap:wrap;
-    
-    }
-    
     .hebergements-and-populaires {
         flex-direction: column;
     }
